@@ -10,7 +10,7 @@ Redacta, completa, reescribe o revisa material universitario en español: monogr
 
 El objetivo es un texto que el docente pueda leer de corrido sin perderse:
 
-- una idea por sección, sin relleno ni exceso detalles.
+- una idea por sección, sin relleno ni exceso de detalles.
 - cada término definido en su primer uso, para un lector sin contexto.
 - citas que respaldan ideas, no una por oración.
 - registro formal, oraciones completas y encadenadas.

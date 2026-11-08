@@ -1,0 +1,12 @@
+{
+  "name": "facultad",
+  "version": "0.1.0",
+  "description": "Skills para trabajos de la facultad: redactar monografías, informes de TP y notebooks en español, con texto claro, riguroso y fácil de digerir.",
+  "author": {
+    "name": "b-Tomas",
+    "url": "https://github.com/b-Tomas"
+  },
+  "repository": "https://github.com/b-Tomas/skills-facultad",
+  "license": "MIT",
+  "keywords": ["facultad", "universidad", "redaccion", "monografia", "typst", "jupyter", "espanol"]
+}

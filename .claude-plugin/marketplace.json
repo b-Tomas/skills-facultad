@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "facultad",
+  "description": "Skills para trabajos de la facultad.",
+  "owner": {
+    "name": "b-Tomas",
+    "url": "https://github.com/b-Tomas"
+  },
+  "plugins": [
+    {
+      "name": "facultad",
+      "description": "Redactar monografías, informes de TP y notebooks en español, con texto claro, riguroso y fácil de digerir.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
